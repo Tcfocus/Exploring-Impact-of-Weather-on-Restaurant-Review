@@ -1,8 +1,8 @@
 # Exploring-Impact-of-Weather-on-Restaurant-Review
 
-The purpose of this project is to utilize massive data sets of climate data and Yelp reviews, in order to analyze the impact of weather on restaurant reviews.
+The purpose of this project is to analyze the impact of weather on restaurant reviews viau large data sets for climate data and Yelp reviews.
 Snowflake - a cloud-native data warehouse - is used to stage the data, where it is then migrated and transformed into a ODS environment.
-THe data is then migrates to a Data Warehouse schema, where SQL queries are performed to understand the relationship between weather and reviews.
+THe data is then migrated to a Data Warehouse schema, where SQL queries are performed to understand the relationship between weather and reviews.
 
 ## Data Sources:
   - Yelp dataset of all existing reviews in JSON format(link: https://www.yelp.com/dataset/download). consisting of seperate datasets:
