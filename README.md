@@ -24,7 +24,11 @@ The data is then migrated to a Data Warehouse schema, where SQL queries are perf
   4. Migrate data from ODS schema into final Data Warehouse schema,
   5. Perform queries to understand any hidden relationships between weather and a customers review on a restaurant.
 
+## ERD Diagram for ODS Database
 ![Screenshot](https://github.com/Tcfocus/Exploring-Impact-of-Weather-on-Restaurant-Review/blob/master/Images/ER%20Diagram%20for%20ODS.png)
+
+## Star Schema design for Data Warehouse
+![Screenshot](https://github.com/Tcfocus/Exploring-Impact-of-Weather-on-Restaurant-Review/blob/master/Images/Star%20Schema%20for%20Data%20Warehouse.png)
 
 
    
